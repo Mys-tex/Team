@@ -1,4 +1,4 @@
-title: "Glorified Studios Staff"
+title: "Glorified Studios"
 lang: "en-GB"
 repository: GlorifiedStudios/Team
 baseurl: "/"
@@ -7,10 +7,10 @@ collections:
   staff:
     order:
       - glorifiedpig.md
-      - internet.md
       - hermitec.md
-      - melvin.md
+      - internet.md
       - easybutton.md
+      - melvin.md
       - mystex.md
       - beth.md
     output: true
