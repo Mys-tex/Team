@@ -6,5 +6,5 @@ avatar: https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avat
 links:
   steam: https://steamcommunity.com/id/184643216/
   youtube: https://www.youtube.com/channel/UC-vmtL__nILLfZeRkkLEMgQ
+  discord: https://discord.com/users/304926153779707904
 ---
-Mystex is here to remind you to hydrate. Will use the misbehaving stick if needed
