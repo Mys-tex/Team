@@ -3,7 +3,7 @@ name: "Josh Boy"
 realname: Joshua Smith
 teams: [moderation]
 role: "Moderator"
-avatar: https://imgur.com/RIjZUFx
+avatar: https://i.imgur.com/RIjZUFx.png
 links:
     steam: https://steamcommunity.com/profiles/76561198206851931/
     insta: https://www.instagram.com/bonzai_sumisu/
