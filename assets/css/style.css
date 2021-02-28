@@ -295,3 +295,8 @@ i {
     background: #1DA1F2;
     box-shadow: 0 0 5px #1DA1F2;
 }
+
+.instagram-link:hover{
+    background: #FF1A72;
+    box-shadow: 0 0 5px #FF1A72;
+}
