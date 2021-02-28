@@ -10,4 +10,4 @@ links:
     youtube: https://www.youtube.com/channel/UCAqur5uQ9bpJhsHV3oq_6PQ
     discord: https://discord.com/users/210828786462228480
 ---
-Ryan is the founder of Glorified Studios. He started the organization originally in 2017, however, he has been coding since 2012.
+Ryan is the Founder and Lead Developer of Glorified Studios. He started the organization in 2017 and has been doing software development since early 2012.
