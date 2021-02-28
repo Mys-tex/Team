@@ -10,4 +10,6 @@ links:
     twitch: https://twitch.tv/doctor_internet
     discord: https://discord.com/users/239031520587808769
 ---
-Internet is a guy who does a lot of code.
+Doctor Internet is Glorified Studio's Systems Administrator / DevOps Engineer, responsible for the entirety of the web infrastructure, build systems, along with secondary and tertiary infrastructure layers.
+
+Along with this, he also works as one of Glorified Studio's Community Managers, working mostly on Brand Development, Community Engagement, Support and Development Management.
