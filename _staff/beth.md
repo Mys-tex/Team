@@ -8,4 +8,4 @@ links:
   steam: https://steamcommunity.com/id/bethdrops/
   twitter: https://twitter.com/bzth
 ---
-Beth is the Community Manager, in charge of social media, the forum, and telling Doctor Internet how to make things look pretty. She actually sucks at CMIYC. 
+Beth is the Community Manager, in charge of social media, the forum and telling Doctor Internet how to make things look pretty. She actually sucks at CMIYC. 
