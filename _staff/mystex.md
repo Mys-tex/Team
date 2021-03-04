@@ -8,3 +8,4 @@ links:
   youtube: https://www.youtube.com/channel/UC-vmtL__nILLfZeRkkLEMgQ
   discord: https://discord.com/users/304926153779707904
 ---
+Mystex is in charge of a team of moderators and overlooks community.
