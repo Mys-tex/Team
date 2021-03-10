@@ -7,4 +7,4 @@ links:
   steam: https://steamcommunity.com/id/184643216/
   youtube: https://www.youtube.com/channel/UC-vmtL__nILLfZeRkkLEMgQ
 ---
-Mystex is here to remind you to hydrate. Will use the misbehaving stick if needed
+Mystex is in charge of a team of moderators and overlooks community to make sure no one was wronged.
